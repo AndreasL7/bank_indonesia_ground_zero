@@ -15,7 +15,7 @@ def main():
     
     image_url = "https://i.ibb.co.com/Qcgcd7t/banked-unbanked.png"
     
-    st.markdown(f'<a href="{image_url}"><img src="{image_url}" alt="description" width="1600"/></a>', unsafe_allow_html=True)
+    st.markdown(f'<a href="{image_url}"><img src="{image_url}" alt="description" width="1300"/></a>', unsafe_allow_html=True)
     
     st.subheader("The Business Challenge")
     
@@ -31,7 +31,7 @@ def main():
     image_url = "https://pbs.twimg.com/media/FNq9-clVUAM0r8V.jpg"
     
     st.subheader("Uncovering the Mystery")
-    st.markdown(f'<a href="{image_url}"><img src="{image_url}" alt="description" width="1600"/></a>', unsafe_allow_html=True)
+    st.markdown(f'<a href="{image_url}"><img src="{image_url}" alt="description" width="1300"/></a>', unsafe_allow_html=True)
     
     st.write("""
     That's where we come in! Alternative credit scoring is the compass that guides us to this untapped potential. By using AI and machine learning to analyze diverse data points – from telco usage to e-commerce activity – we uncover hidden patterns that reveal creditworthiness. This isn't just about technology; it's about economic empowerment!
